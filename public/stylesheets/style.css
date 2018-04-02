@@ -1,0 +1,28 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 90%;
+  background-image: url("https://i.ytimg.com/vi/IMHk2IFV5KU/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+footer {
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+  width: 99%;
+}
+section {
+  background-color: #fff;
+  padding: 5px;
+  border: solid 1px #00f;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+footer i {
+  color: #f00;
+}
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
